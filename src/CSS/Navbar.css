@@ -1,0 +1,21 @@
+.mr-sm-2{
+    width: 15% !important; 
+    margin: 0 auto !important;
+} 
+.container{
+width: 55% !important;
+margin: 0 auto !important;
+} 
+.list{
+    color :white;
+    list-style: none;
+}  
+.list li{
+    display: none;
+}
+.list{
+    display: none;
+}
+.Nav.Link :hover>.list li{
+    display: flex;
+}
